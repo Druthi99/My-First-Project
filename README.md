@@ -17,3 +17,5 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 
 ## File
 - `Sales Dashboard.pbix` – open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+
+Note: GitHub can't preview `.pbix` files directly. Click "Download" on the file page to open it in Power BI Desktop.
