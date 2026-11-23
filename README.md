@@ -3,7 +3,7 @@
 This is my first project on GitHub. It's a Power BI dashboard analyzing restaurant order and delivery performance, built to practice data modeling and DAX.
 
 ## Preview
-<img width="1612" height="776" alt="image" src="https://github.com/user-attachments/assets/6253729b-aa70-46ed-8ca6-fa1891ad18f3" />
+<img width="1617" height="777" alt="image" src="https://github.com/user-attachments/assets/48f20879-3151-4023-aa6d-bae4831c974e" />
 <img width="1630" height="785" alt="image" src="https://github.com/user-attachments/assets/335f8c9a-eb6e-4343-97c6-71a856e52a2a" />
 <img width="1612" height="787" alt="image" src="https://github.com/user-attachments/assets/28603708-a0d3-49c9-832b-d4429ab68d36" />
 <img width="1605" height="772" alt="image" src="https://github.com/user-attachments/assets/3cc18733-b797-4cac-880b-cf1be4a84e66" />
