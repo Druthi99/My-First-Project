@@ -23,6 +23,13 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 - **Tables and relationships:** Order[Order_ID] → City[Order_ID]; City[Order_ID] → Customer[Order_ID]
 - **Currency:** INR (₹); Cr = crore (10 million)
 - **Data connection:** Excel files
+
+## KPI definitions
+- **Total Orders**	Count of all orders 
+- **Net Revenue**	Total Revenue - Total Discount 
+- **AOV**	Net Revenue ÷ Total Orders
+- **Total Time**	Delivery time + preparation time, in minutes
+- **Rating**	average customer rating, scale 1–5
 - 
 ## Tools Used
 - Power BI Desktop
