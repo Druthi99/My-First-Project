@@ -8,6 +8,9 @@ This is my first project on GitHub. It's a Power BI dashboard analyzing restaura
 <img width="1612" height="787" alt="image" src="https://github.com/user-attachments/assets/28603708-a0d3-49c9-832b-d4429ab68d36" />
 <img width="1605" height="772" alt="image" src="https://github.com/user-attachments/assets/3cc18733-b797-4cac-880b-cf1be4a84e66" />
 
+
+Full report: [Sales Dashboard.pdf](Sales%20Dashboard.pdf)
+
 - **Summary** – KPI cards, revenue map, restaurant scatter Summary page
 - **City** – revenue, orders and delivery time by city City page
 - **Month** – monthly trends in revenue, orders and discounts Month page
