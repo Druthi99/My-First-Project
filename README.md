@@ -33,7 +33,8 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 ## Key findings
 - Delhi generated the highest revenue (₹1.34Cr) among the 4 cities; Barbeque Nation was the top restaurant by revenue.
 - Average delivery + preparation time was ~33 minutes.
-
+- At order level, delivery time and customer rating were essentially uncorrelated (Pearson r = -0.004, n = 86,894), suggesting delivery speed alone did not explain satisfaction
+  
 ## Report Pages
 - **Summary** – high-level KPI overview
 - **City** – performance breakdown by city (includes a map visual)
