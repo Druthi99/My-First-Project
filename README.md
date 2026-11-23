@@ -18,12 +18,12 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 - **Restaurant** – revenue, orders, discount and rating by restaurant Restaurant page
 
 ## Data
-**Source:** <dataset name, publisher and link> (licence/terms: <...>)
-**Period:** May–Aug 2015
-**Size:** 86,894 orders · 10 restaurants · 4 cities
-**Tables and relationships:** Order, Customer, City — <e.g. Order[Customer_ID] → Customer[Customer_ID]; Order[City_ID] → City[City_ID], many-to-one>
-**Currency:** INR (₹); Cr = crore (10 million)
-**Data connection:** <how the data is loaded – e.g. Excel/CSV files imported into the model. If the data is embedded in the .pbix, say so: "Data is imported and stored inside the file; no external connection needed.">
+- **Source:** <dataset name, publisher and link> (licence/terms: <...>)
+- **Period:** May–Aug 2015
+- **Size:** 86,894 orders · 10 restaurants · 4 cities
+- **Tables and relationships:** Order, Customer, City — <e.g. Order[Customer_ID] → Customer[Customer_ID]; Order[City_ID] → City[City_ID], many-to-one>
+- **Currency:** INR (₹); Cr = crore (10 million)
+- **Data connection:** <how the data is loaded – e.g. Excel/CSV files imported into the model. If the data is embedded in the .pbix, say so: "Data is imported and stored inside the file; no external connection needed.">
 
 ## Tools Used
 - Power BI Desktop
