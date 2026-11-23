@@ -24,11 +24,13 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 - **Data connection:** Excel files
 
 ## KPI definitions
-- **Total Orders**	Count of all orders 
-- **Net Revenue**	Total Revenue - Total Discount 
-- **AOV**	Net Revenue ÷ Total Orders
-- **Total Time**	Delivery time + preparation time, in minutes
-- **Rating**	average customer rating, scale 1–5
+| Measure | Definition |
+|---|---|
+| Total Orders | Count of all orders |
+| Net Revenue | Total Revenue − Total Discount |
+| AOV | Net Revenue ÷ Total Orders |
+| Total Time | Delivery time + preparation time (minutes) |
+| Rating | Average customer rating (1–5) |
 
 ## Key findings
 - Delhi generated the highest revenue (₹1.34Cr) among the 4 cities; Barbeque Nation was the top restaurant by revenue.
