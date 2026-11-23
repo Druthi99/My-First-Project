@@ -8,10 +8,6 @@ This is my first project on GitHub. It's a Power BI dashboard analyzing restaura
 <img width="1612" height="787" alt="image" src="https://github.com/user-attachments/assets/28603708-a0d3-49c9-832b-d4429ab68d36" />
 <img width="1605" height="772" alt="image" src="https://github.com/user-attachments/assets/3cc18733-b797-4cac-880b-cf1be4a84e66" />
 
-
-
-
-
 ## About the Project
 A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. It tracks key metrics like Total Orders, Net Revenue, Average Order Value (AOV), Discounts, Delivery Time, and Customer Ratings — helping surface performance trends by city, restaurant, and month.
 
@@ -21,7 +17,14 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 - **Month** – monthly trends in revenue, orders and discounts Month page
 - **Restaurant** – revenue, orders, discount and rating by restaurant Restaurant page
 
-Full report as PDF: 
+## Data
+**Source:** <dataset name, publisher and link> (licence/terms: <...>)
+**Period:** May–Aug 2015
+**Size:** 86,894 orders · 10 restaurants · 4 cities
+**Tables and relationships:** Order, Customer, City — <e.g. Order[Customer_ID] → Customer[Customer_ID]; Order[City_ID] → City[City_ID], many-to-one>
+**Currency:** INR (₹); Cr = crore (10 million)
+**Data connection:** <how the data is loaded – e.g. Excel/CSV files imported into the model. If the data is embedded in the .pbix, say so: "Data is imported and stored inside the file; no external connection needed.">
+
 ## Tools Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
