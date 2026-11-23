@@ -8,14 +8,13 @@ This is my first project on GitHub. It's a Power BI dashboard analyzing restaura
 <img width="1612" height="787" alt="image" src="https://github.com/user-attachments/assets/28603708-a0d3-49c9-832b-d4429ab68d36" />
 <img width="1605" height="772" alt="image" src="https://github.com/user-attachments/assets/3cc18733-b797-4cac-880b-cf1be4a84e66" />
 
-## About the Project
-A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. It tracks key metrics like Total Orders, Net Revenue, Average Order Value (AOV), Discounts, Delivery Time, and Customer Ratings — helping surface performance trends by city, restaurant, and month.
-
-## Report Pages
 - **Summary** – KPI cards, revenue map, restaurant scatter Summary page
 - **City** – revenue, orders and delivery time by city City page
 - **Month** – monthly trends in revenue, orders and discounts Month page
 - **Restaurant** – revenue, orders, discount and rating by restaurant Restaurant page
+
+## About the Project
+A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. It tracks key metrics like Total Orders, Net Revenue, Average Order Value (AOV), Discounts, Delivery Time, and Customer Ratings — helping surface performance trends by city, restaurant, and month.
 
 ## Data
 - **Period:** Jan–Dec 2015
@@ -30,7 +29,17 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 - **AOV**	Net Revenue ÷ Total Orders
 - **Total Time**	Delivery time + preparation time, in minutes
 - **Rating**	average customer rating, scale 1–5
-- 
+
+## Key findings
+- Delhi generated the highest revenue (₹1.34Cr) among the 4 cities; Barbeque Nation was the top restaurant by revenue.
+- Average delivery + preparation time was ~33 minutes.
+
+## Report Pages
+- **Summary** – high-level KPI overview
+- **City** – performance breakdown by city (includes a map visual)
+- **Month** – trends over time
+- **Restaurant** – performance by individual restaurant
+
 ## Tools Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
@@ -38,4 +47,4 @@ A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaur
 ## File
 - `Sales Dashboard.pbix` – open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
-Note: GitHub can't preview `.pbix` files directly. Click "Download" on the file page to open it in Power BI Desktop.
+How to open: click "Download" on the file page (GitHub can't preview .pbix files), then open it in Power BI Desktop. 
