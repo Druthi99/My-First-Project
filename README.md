@@ -17,7 +17,7 @@ This is my first project on GitHub. It's a Power BI dashboard analyzing restaura
 A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. It tracks key metrics like Total Orders, Net Revenue, Average Order Value (AOV), Discounts, Delivery Time, and Customer Ratings — helping surface performance trends by city, restaurant, and month.
 
 ## Data
-- **Period:** Jan–Dec 2015
+- **Period:** May-Aug 2015
 - **Size:** 86,894 orders · 10 restaurants · 4 cities
 - **Tables and relationships:** Order[Order_ID] → City[Order_ID]; City[Order_ID] → Customer[Order_ID]
 - **Currency:** INR (₹); Cr = crore (10 million)
