@@ -16,11 +16,12 @@ This is my first project on GitHub. It's a Power BI dashboard analyzing restaura
 A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. It tracks key metrics like Total Orders, Net Revenue, Average Order Value (AOV), Discounts, Delivery Time, and Customer Ratings — helping surface performance trends by city, restaurant, and month.
 
 ## Report Pages
-- **Summary** – high-level KPI overview
-- **City** – performance breakdown by city (includes a map visual)
-- **Month** – trends over time
-- **Restaurant** – performance by individual restaurant
+- **Summary** – KPI cards, revenue map, restaurant scatter Summary page
+- **City** – revenue, orders and delivery time by city City page
+- **Month** – monthly trends in revenue, orders and discounts Month page
+- **Restaurant** – revenue, orders, discount and rating by restaurant Restaurant page
 
+Full report as PDF: 
 ## Tools Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
